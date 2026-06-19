@@ -7,7 +7,7 @@ Role: Polyglot/Polymath Developer | Content Creator | Passionate/Curious individ
 Technical Fields: Backend | Frontend | Mobile | AI | Hecker 💀
 Interests: ♟️ Chess | 💪 Workout | 📚 Reading | 🧠 Math/Physics | 🌍 Learning Languages | 🎮 Gaming
 Motto: Beyond imagination.
-Languages: Uzbek | Russian | English | German
+Languages: Uzbek | Russian | English | German | Chinese
 Contact: altairetech2@gmail.com
 Website: https://polymath-me.vercel.app/
 -----------------
