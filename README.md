@@ -1,5 +1,5 @@
 ```bash
-$ neofetch
+$ fastfetch
 > altairedev@github
 -----------------
 OS: Linux | Arch | KDEPlasma/Hyperland
