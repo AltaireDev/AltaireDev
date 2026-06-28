@@ -14,4 +14,3 @@ Website: https://polymath-me.vercel.app/
 
 $ _
 ```
-
